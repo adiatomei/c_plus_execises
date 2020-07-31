@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588948865 source:c:\users\mady\desktop\c++\extern\main.cpp
+	<iostream>
+	"head.h"
+
+1588868050 c:\users\mady\desktop\c++\extern\head.h
+

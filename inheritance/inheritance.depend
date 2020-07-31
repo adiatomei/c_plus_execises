@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587657130 source:c:\users\mady\desktop\c++\inheritance\main.cpp
+	<iostream>
+	"head.h"
+	"source.cpp"
+
+1587656952 c:\users\mady\desktop\c++\inheritance\head.h
+	<iostream>
+
+1587657154 c:\users\mady\desktop\c++\inheritance\source.cpp
+	<iostream>
+	"head.h"
+

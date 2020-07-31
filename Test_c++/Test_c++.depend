@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1585836138 source:c:\users\mady\desktop\c++\test_c++\main.cpp
+	"LaptopCl.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1585076154 c:\users\mady\desktop\c++\test_c++\laptopcl.cpp
+	<iostream>
+	"LaptopCl.h"
+
+1585837185 c:\users\mady\desktop\c++\test_c++\laptopcl.h
+	<iostream>
+
+1585837229 source:c:\users\mady\desktop\c++\test_c++\laptopcl.cpp
+	<iostream>
+	"LaptopCl.h"
+

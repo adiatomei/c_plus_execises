@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586086849 source:c:\users\mady\desktop\c++\function_template\main.cpp
+	"head.h"
+	<iostream>
+
+1586086873 c:\users\mady\desktop\c++\function_template\head.h
+	<iostream>
+

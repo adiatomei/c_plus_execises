@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587815471 source:c:\users\mady\desktop\c++\oop_facultate\main.cpp
+	<iostream>
+	<cstring>
+	"head.h"
+
+1587815745 c:\users\mady\desktop\c++\oop_facultate\head.h
+	<iostream>
+

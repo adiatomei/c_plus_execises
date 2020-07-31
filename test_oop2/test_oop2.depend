@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590424476 source:c:\users\mady\desktop\c++\test_oop2\main.cpp
+	<iostream>
+	"source.cpp"
+
+1590415262 c:\users\mady\desktop\c++\test_oop2\source.cpp
+	<iostream>
+	"head.h"
+
+1590415402 c:\users\mady\desktop\c++\test_oop2\head.h
+	<iostream>
+

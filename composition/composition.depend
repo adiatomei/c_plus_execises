@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1587128275 source:c:\users\mady\desktop\c++\composition\main.cpp
+	"car_source.cpp"
+	"wheels_sour.cpp"
+	"car_head.h"
+	"wheels_head.h"
+	<iostream>
+
+1587127897 c:\users\mady\desktop\c++\composition\car_head.h
+	"wheels_head.h"
+	<iostream>
+
+1587120645 c:\users\mady\desktop\c++\composition\wheels_head.h
+	<iostream>
+
+1587128305 c:\users\mady\desktop\c++\composition\car_source.cpp
+	<iostream>
+	"car_head.h"
+	"wheels_head.h"
+
+1587126263 c:\users\mady\desktop\c++\composition\wheels_sour.cpp
+	<iostream>
+	"wheels_head.h"
+

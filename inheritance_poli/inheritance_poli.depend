@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590510893 source:c:\users\mady\desktop\c++\inheritance_poli\main.cpp
+	<iostream>
+	"source.cpp"
+
+1590511011 c:\users\mady\desktop\c++\inheritance_poli\source.cpp
+	<iostream>
+	"head.h"
+
+1590509695 c:\users\mady\desktop\c++\inheritance_poli\head.h
+	<iostream>
+

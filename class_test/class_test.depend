@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586880752 source:c:\users\mady\desktop\c++\class_test\main.cpp
+	"head.h"
+	<iostream>
+
+1586880769 c:\users\mady\desktop\c++\class_test\head.h
+	<iostream>
+

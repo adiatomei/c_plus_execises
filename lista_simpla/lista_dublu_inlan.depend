@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588253095 source:c:\users\mady\desktop\c++\lista_dublu_inlan\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

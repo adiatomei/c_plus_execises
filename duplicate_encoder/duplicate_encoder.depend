@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591375008 source:c:\users\mady\desktop\c++\duplicate_encoder\main.cpp
+	<iostream>
+	<cctype>
+
